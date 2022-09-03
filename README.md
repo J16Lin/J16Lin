@@ -1,4 +1,11 @@
 ### Hi there 👋
+# Welcome to my about me page!
+My name is Jeff and I am an aerospace engineering student at Iowa State University!
+I want to learn to code better from this course! I am currently a senior and am expected to graduate 2023!
+
+My favorite hobbies include music festivals, traveling, skiing, photography, but I honestly love doing anything with my friends. 
+
+Here is a random alien :alien:
 
 <!--
 **J16Lin/J16Lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
